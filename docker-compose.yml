@@ -1,0 +1,8 @@
+services:
+  cv-env:
+    build:
+      context: .
+    container_name: tcc_cv_container
+    volumes:
+      - ./src:/app/src
+    working_dir: /app/src
