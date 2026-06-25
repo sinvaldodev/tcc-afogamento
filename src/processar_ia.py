@@ -51,7 +51,7 @@ def processar_video_ia(caminho_entrada, caminho_saida):
 
 if __name__ == "__main__":
     # Lista com os nomes dos seus vídeos de teste
-    videos_para_testar = ['video1.mp4', 'video2.mp4']
+    videos_para_testar = ['video1.mp4', 'video2.mp4', 'video3.mp4', 'video4.mp4', 'video5.mp4', 'video6.mp4']
     
     for video in videos_para_testar:
         if os.path.exists(video):
