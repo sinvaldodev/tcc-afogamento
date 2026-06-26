@@ -1,0 +1,10 @@
+{
+    "nome_cenario": "Piscina Principal - Camera Fixa 1",
+    "descricao": "Coordenadas extraidas do video1.mp4",
+    "coordenadas": [
+        [6, 112], 
+        [121, 243], 
+        [490, 90], 
+        [285, 37]
+    ]
+}

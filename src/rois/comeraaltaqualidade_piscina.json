@@ -1,0 +1,11 @@
+{
+    "nome_cenario": "Piscina Principal (Alta Qualidade) - Camera Fixa 10",
+    "descricao": "Coordenadas extraidas do video10.mp4",
+    "coordenadas": [
+        [1, 1077], 
+        [1526, 1075], 
+        [1916, 163], 
+        [433, 112],
+        [4, 170]
+    ]
+}
